@@ -67,11 +67,6 @@
   <ItemGroup>
     <None Include="PrefixHeader.pch" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Dependencies\libimobiledevice-vs\libplist.vcxproj">
-      <Project>{75352a45-bcb8-4774-8c66-3af9ea6b6b42}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{3DD5EA43-D078-46FE-B5C2-BB6213F936CD}</ProjectGuid>

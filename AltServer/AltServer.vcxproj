@@ -212,15 +212,6 @@
     <ProjectReference Include="..\AltSign\AltSign.vcxproj">
       <Project>{3dd5ea43-d078-46fe-b5c2-bb6213f936cd}</Project>
     </ProjectReference>
-    <ProjectReference Include="..\Dependencies\libimobiledevice-vs\imobiledevice.vcxproj">
-      <Project>{ee16e7f2-ac27-4e30-ab22-b02a9c2380b4}</Project>
-    </ProjectReference>
-    <ProjectReference Include="..\Dependencies\libimobiledevice-vs\libplist.vcxproj">
-      <Project>{75352a45-bcb8-4774-8c66-3af9ea6b6b42}</Project>
-    </ProjectReference>
-    <ProjectReference Include="..\Dependencies\libimobiledevice-vs\libusbmuxd.vcxproj">
-      <Project>{527ae686-cd0e-4bc2-9b0f-4bc4cf9621e0}</Project>
-    </ProjectReference>
     <ProjectReference Include="..\ldid\ldid.vcxproj">
       <Project>{147d42db-4b88-4b3f-8548-6e11fb51c589}</Project>
     </ProjectReference>
