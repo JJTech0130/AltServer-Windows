@@ -51,13 +51,13 @@
 #include <dirent.h>
 #include <errno.h>
 #include <fcntl.h>
-#include <regex.h>
+#include "regex/include/regex.h"
 #include <stdbool.h>
 #include <stdint.h>
 //#include <unistd.h>
 #include <io.h>
 
-#include "mman.h"
+#include "mman/mman.h"
 #include <sys/stat.h>
 #include <sys/types.h>
 
